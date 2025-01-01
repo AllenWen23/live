@@ -287,11 +287,19 @@ https://0472.org/hls/cgtnf.m3u8
 https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
 https://0472.org/hls/cgtna.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="地方频道",北京卫视
 https://fmbox.cc/公众号玉玉软件库/tv/beijing.php?id=bjws
+#EXTINF:-1 tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://live.fanmingming.com/tv/北京文艺.png" group-title="地方频道",北京文艺
 https://fmbox.cc/公众号玉玉软件库/tv/beijing.php?id=bjwy
+#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="地方频道",北京纪实科教
 https://fmbox.cc/公众号玉玉软件库/tv/beijing.php?id=bjjs
+#EXTINF:-1 tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://live.fanmingming.com/tv/北京影视.png" group-title="地方频道",北京影视
 https://fmbox.cc/公众号玉玉软件库/tv/beijing.php?id=bjys
+#EXTINF:-1 tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://live.fanmingming.com/tv/北京财经.png" group-title="地方频道",北京财经
 https://fmbox.cc/公众号玉玉软件库/tv/beijing.php?id=bjcj
+#EXTINF:-1 tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://live.fanmingming.com/tv/北京体育休闲.png" group-title="地方频道",北京体育休闲
 https://fmbox.cc/公众号玉玉软件库/tv/beijing.php?id=bjty
+#EXTINF:-1 tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://live.fanmingming.com/tv/北京生活.png" group-title="地方频道",北京生活
 https://fmbox.cc/公众号玉玉软件库/tv/beijing.php?id=bjsh
+#EXTINF:-1 tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://live.fanmingming.com/tv/北京新闻.png" group-title="地方频道",北京新闻
 https://fmbox.cc/公众号玉玉软件库/tv/beijing.php?id=bjxw
